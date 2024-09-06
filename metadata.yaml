@@ -1,0 +1,38 @@
+_repo: Les-yeux-fermes-b-roman_74327
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sandre, Thierry
+    aliases:
+    - Moulie, Charles
+    - Moulié, Charles
+    birthdate: 1890
+    deathdate: 1950
+    gutenberg_agent_id: '52873'
+    url: http://www.gutenberg.org/2009/agents/52873
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Thierry_Sandre
+    - https://fr.wikipedia.org/wiki/Thierry_Sandre
+description: ''
+gutenberg_issued: '2024-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74327'
+language: fr
+pgterms:marc904: https://archive.org/details/lesyeuxfermesrom00thie
+pgterms:marc905: 20240103061025sandre
+pgterms:marc906: '1928'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aParis :$bGallimard, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Les yeux fermés : $b roman'
+url: http://www.gutenberg.org/ebooks/74327
